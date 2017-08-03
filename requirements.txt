@@ -1,0 +1,4 @@
+olefile==0.44
+Pillow==4.2.1
+PyPDF2==1.26.0
+reportlab==3.4.0
